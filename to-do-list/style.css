@@ -1,0 +1,22 @@
+body {
+  background: black;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+h3 {
+  color: white;
+}
+
+.button {
+  border-radius: 50px;
+}
+
+#result {
+  color: white;
+}
+
+.no-strike {
+  text-decoration: line-through;
+}
